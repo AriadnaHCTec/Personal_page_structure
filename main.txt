@@ -1,0 +1,4 @@
+About Me
+Hello! I'm Ariadna, currently working as Software Developer at Google Mexico. 
+My interest lie in Data Structures & Algorithms, AI and robotics.
+I received my Bachelor of Computer Science in July 2023. Have a look at some of my Projects below! 

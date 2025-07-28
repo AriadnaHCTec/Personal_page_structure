@@ -1,0 +1,4 @@
+Tags: Data Structures & Algorithms
+2021-2023
+I co-founded Algorithms Club at my University, creating a webpage and some courses to give algorithms foundations to new students.
+My team managed to get 24th and 13th place in ICPC Gran Premio Mexico and 28th place and 22nd place in ICPC Mexico Finals in 2022 and 2023.

@@ -1,0 +1,4 @@
+Tags: robotics, python
+2022
+I was part of a team of 3 members to build a MegaSumo robot (3Kg) for a State competition.
+I programmed the robot and we achieved 1st place.

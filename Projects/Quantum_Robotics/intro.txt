@@ -1,0 +1,5 @@
+Tags: robotics, python, C++, ROS
+2020-2023
+Telecommunications and Programming leader in robotics team where we participated 2 times in University Rover Challenge World Finals, reaching 15th Place and 10th Place.
+Responsible of ROS implementation: robotic arm, driving, telecommunications and user interface.
+
